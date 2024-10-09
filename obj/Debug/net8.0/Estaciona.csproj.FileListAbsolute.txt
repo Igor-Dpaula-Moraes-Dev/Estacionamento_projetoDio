@@ -1,0 +1,14 @@
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\bin\Debug\net8.0\Estaciona.exe
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\bin\Debug\net8.0\Estaciona.deps.json
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\bin\Debug\net8.0\Estaciona.runtimeconfig.json
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\bin\Debug\net8.0\Estaciona.dll
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\bin\Debug\net8.0\Estaciona.pdb
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.AssemblyInfo.cs
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.dll
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\refint\Estaciona.dll
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.pdb
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\Estaciona.genruntimeconfig.cache
+C:\Users\Suporte\Documents\Aulas C #\Estaciona\obj\Debug\net8.0\ref\Estaciona.dll
